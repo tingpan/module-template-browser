@@ -1,0 +1,13 @@
+[{
+  "slug": "index",
+  "name": "Home"
+}, {
+  "slug": "api",
+  "name": "API Reference"
+}, {
+  "name": "Source Code",
+  "url": "https://github.com/tingpan/test_module_browser"
+}, {
+  "slug": "license",
+  "name": "License"
+}]

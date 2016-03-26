@@ -1,0 +1,19 @@
+{
+  "name": "test_module_browser",
+  "version": "0.0.1",
+  "homepage": "https://github.com/tingpan/test_module_browser",
+  "description": "",
+  "main": "dist/test_module_browser.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "test",
+    "build",
+    "gulpfile.coffee",
+    "package.json"
+  ],
+  "dependencies": {
+    "simple-module": "^3.0.1",
+    "lodash": "^4.5.1"
+  }
+}
