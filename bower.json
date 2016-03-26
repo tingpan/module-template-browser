@@ -2,7 +2,7 @@
   "name": "test_module_browser",
   "version": "0.0.1",
   "homepage": "https://github.com/tingpan/test_module_browser",
-  "description": "",
+  "description": "test_module_browser on Github",
   "main": "dist/test_module_browser.js",
   "license": "MIT",
   "ignore": [

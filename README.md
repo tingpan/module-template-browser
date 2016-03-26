@@ -8,7 +8,7 @@
 [![David](https://img.shields.io/david/dev/tingpan/test_module_browser.svg)](https://david-dm.org/tingpan/test_module_browser#info=devDependencies)
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/tingpan/test_module_browser)
 
-.
+test_module_browser on Github.
 
 ## Installation
 
